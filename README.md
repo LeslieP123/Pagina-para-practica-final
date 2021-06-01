@@ -2,6 +2,11 @@
 
 ### Rutas
 
+<!--Bueno profesor, no se que decile. Creo que no hay necesida de prolongar esta tarea,
+porque para cuando termine ya no va a valer nada. Solo sepa que, de verda que lo intente,
+pero ya no puedo pretender como que se la voy a entrega completa. Por lo meno le voy a da
+lo que tengo.-->
+
 | Endpoint | HTTP | Description |
 
 | --- | --- | --- |

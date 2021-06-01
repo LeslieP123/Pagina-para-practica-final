@@ -23,7 +23,7 @@ const transporter = nodemailer.createTransport({
 /*Settings*/ 
 app.set("view engine", ".hbs");
 app.set('Views', path.join(__dirname, 'Views'))
-app.set(express.static(path.join(__dirname, "Public")))
+app.use(express.static(path.join(__dirname, "Public")))
 app.use(express.urlencoded({
     extended: false
 }));
